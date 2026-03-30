@@ -99,11 +99,4 @@ This is not just a “data project” — it shows:
 * Understanding of business metrics, not just visuals
 * End-to-end workflow from raw data to insights
 
----
 
-
-Most beginners focus on tools. That’s a mistake.
-
-This project focuses on **thinking like an analyst** — asking the right questions, validating data, and turning numbers into decisions.
-
-That’s what actually matters.
